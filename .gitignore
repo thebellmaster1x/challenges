@@ -1,0 +1,6 @@
+# ignore challenge images
+*.png
+
+# ignore c output files
+*.o
+*.out
